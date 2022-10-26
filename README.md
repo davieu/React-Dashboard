@@ -1,3 +1,9 @@
+
+Using specific versions of package/jsons. To install do- 
+npm install-peer-deps
+
+This app uses syncfusion made features
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
