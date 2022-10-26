@@ -3,6 +3,8 @@ Using specific versions of package/jsons. To install do-
 npm install-peer-deps
 
 This app uses syncfusion made features
+my notes: rfce
+extensions: ES7+ React/Redux/React-Native/JS snippets
 
 # Getting Started with Create React App
 
